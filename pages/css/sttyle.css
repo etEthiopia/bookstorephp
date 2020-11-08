@@ -1,0 +1,20 @@
+div{
+    width:80%;
+    float: left;
+    color:white;
+}
+div div{
+    width:100%;
+}
+tbody{
+    width: 736px;
+}
+div #tabllle{
+    width:100%;
+}
+table{
+    width:100%;
+}
+label{
+    color:gray;
+}
